@@ -6,4 +6,4 @@ Näyttää pitkävedon kohteen maksimipanoksen virheilmoituksen sijaan.
 3) Ota Kehittäjätila (Developer mode) käyttöön.
 4) Valitse “Lataa purettu” (Load unpacked) ja osoita purkamaasi kansioon.
 
-Älä poista kansiota tietokoneelta, muuten lisäosa katoaa.
+Älä poista kansiota tietokoneelta, muuten laajennus katoaa.
