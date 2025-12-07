@@ -1,5 +1,5 @@
-# Veikkaus maksimipanos
-Näyttää pitkävedon maksimipanoksen virheilmoituksen sijaan.
+# Veikkaus maksimipanos lisäosa Chromeen
+Näyttää pitkävedon kohteen maksimipanoksen virheilmoituksen sijaan.
 
 1) Lataa ja pura kansio. Sisältö (manifest.json, content.js, page.js).
 2) Avaa Chrome ja mene chrome://extensions.
