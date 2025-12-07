@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Veikkaus maksimipanos",
+  "version": "0.0.1",
+  "description": "Näyttää pitkävedon maksimipanoksen virheilmoituksen sijaan.",
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches": ["https://www.veikkaus.fi/*"],
+      "js": ["content.js"],
+      "run_at": "document_start",
+      "all_frames": true
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["page.js"],
+      "matches": ["https://www.veikkaus.fi/*"]
+    }
+  ]
+}
