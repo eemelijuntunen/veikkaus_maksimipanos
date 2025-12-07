@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Veikkaus maksimipanos",
   "version": "0.0.1",
-  "description": "Näyttää pitkävedon maksimipanoksen virheilmoituksen sijaan.",
+  "description": "Näyttää pitkävedon kohteen maksimipanoksen virheilmoituksen sijaan.",
   "permissions": [],
   "content_scripts": [
     {
